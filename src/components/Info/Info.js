@@ -6,11 +6,7 @@ export const Info = () => {
             <InfoSpec>Junior frontend developer</InfoSpec>
             <MainInfo>
             <h3>SUMMARY</h3>
-                <p>I am a Front-End developer looking for a full-time position in a
-    company that's aimed at making both everyday life and business
-    easier, more productive and user-friendly. I have sound knowledge
-    of HTML, CSS, JavaScript, and React. I am a fast learner, responsible, and ready for challenging
-                tasks.</p>
+                <p>I am a switcher, a junior front-end developer. I decided to make a bold career shift, that is why I’m looking for a job in IT-sphere for a full-time. I’m good in HTML5/CCS3/SASS. I know JavaScript/React/Redux. I have an experience in individual and team projects. I’m organized, responsible, hard worker and is open to the new. The vacancy in IT-company is interesting for me to try my knowledge and skills in real practice and to develop it.</p>
             <h3>PROJECT EXPERIENCE</h3>
             <ul>
                 <li>
